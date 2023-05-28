@@ -1,2 +1,2 @@
 My commit 
-update
+Readme update from Github.com
